@@ -1,5 +1,6 @@
 # Bem-vindo de volta, FastFlags.
-<img width="2048" height="512" alt="FFChanger (1)" src="https://github.com/user-attachments/assets/58b15f8b-2e1d-4021-b98b-520d84ebd128" />
+<img width="2048" height="512" alt="FFChanger (2)" src="https://github.com/user-attachments/assets/a34482cf-1998-4384-b3ba-3b02f90ea63b" />
+
 
 
 Criei esse projeto pensando em todos os dependentes de lagball que não sabem fazer nada sem isso.
