@@ -1,5 +1,6 @@
 # Bem-vindo de volta, FastFlags.
-<img width="2048" height="512" alt="FFChanger" src="https://github.com/user-attachments/assets/03bf0ec7-9a38-48c3-bed2-eeaead8363a1" />
+<img width="2048" height="512" alt="FFChanger (1)" src="https://github.com/user-attachments/assets/58b15f8b-2e1d-4021-b98b-520d84ebd128" />
+
 
 Criei esse projeto pensando em todos os dependentes de lagball que não sabem fazer nada sem isso.
 Aqui você pode inserir qualquer fastflag que quiser, sem utilizar nenhum tipo de Launcher externo, como <a href="https://github.com/bloxstraplabs/bloxstrap?tab=readme-ov-file">Bloxstrap</a>, <a href="https://github.com/fishstrap/fishstrap">Fishtrap</a>, <a href="https://github.com/voidstrap/Voidstrap/releases">Voidstrap</a> etc.
