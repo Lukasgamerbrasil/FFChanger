@@ -3,7 +3,7 @@
 
 
 
-Criei esse projeto pensando em todos os dependentes de lagball que não sabem fazer nada sem isso.
+Criei esse projeto pensando em todos os drones dependentes de lagball que não sabem fazer nada sem isso.
 Aqui você pode inserir qualquer fastflag que quiser, sem utilizar nenhum tipo de Launcher externo, como <a href="https://github.com/bloxstraplabs/bloxstrap?tab=readme-ov-file">Bloxstrap</a>, <a href="https://github.com/fishstrap/fishstrap">Fishtrap</a>, <a href="https://github.com/voidstrap/Voidstrap/releases">Voidstrap</a> etc.
 ### Lembre-se que qualquer alteração feita é por sua conta e risco, não me responsabilizo por nenhum banimento.
 <hr>
